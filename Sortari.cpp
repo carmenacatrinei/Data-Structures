@@ -353,7 +353,5 @@ int main()
     //testare_sortari(100000, 100000);
     EfectuareTeste(nr_teste);
 
-    
-
     return 0;
 }
