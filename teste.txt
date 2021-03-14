@@ -1,0 +1,66 @@
+Pentru testul 0 avem:
+N = 1000  Max = 1000
+
+Executia bubbleSort a durat 2290 microsecunde
+Executia insertionSort a durat 1039 microsecunde
+Executia countingSort a durat 17 microsecunde
+Executia selectionSort a durat 1108 microsecunde
+Executia quickSort a durat 395 microsecunde
+Executia sortarii limbajului c++ a durat 1000 microsecunde
+
+
+Pentru testul 1 avem:
+N = 1000  Max = 1000000
+
+Executia bubbleSort a durat 2254 microsecunde
+Executia insertionSort a durat 1035 microsecunde
+Executia countingSort a durat 170 microsecunde
+Executia selectionSort a durat 1112 microsecunde
+Executia quickSort a durat 382 microsecunde
+Executia sortarii limbajului c++ a durat 1048 microsecunde
+
+
+Pentru testul 2 avem:
+N = 10000  Max = 1000
+
+Executia bubbleSort a durat 283354 microsecunde
+Executia insertionSort a durat 104327 microsecunde
+Executia countingSort a durat 71 microsecunde
+Executia selectionSort a durat 106073 microsecunde
+Executia quickSort a durat 5442 microsecunde
+Executia sortarii limbajului c++ a durat 10660 microsecunde
+
+
+Pentru testul 3 avem:
+N = 10000  Max = 1000000
+
+Executia bubbleSort a durat 291345 microsecunde
+Executia insertionSort a durat 101087 microsecunde
+Executia countingSort a durat 300 microsecunde
+Executia selectionSort a durat 105113 microsecunde
+Executia quickSort a durat 6453 microsecunde
+Executia sortarii limbajului c++ a durat 13116 microsecunde
+
+
+Pentru testul 4 avem:
+N = 100000  Max = 10000000
+
+Executia bubbleSort a durat 32410689 microsecunde
+Executia insertionSort a durat 9546577 microsecunde
+Executia countingSort a durat 995 microsecunde
+Executia selectionSort a durat 10540788 microsecunde
+Executia quickSort a durat 64578 microsecunde
+Executia sortarii limbajului c++ a durat 158255 microsecunde
+
+
+Pentru testul 5 avem:
+N = 1000000  Max = 1410065408
+
+Executia bubbleSort a durat 3309806230 microsecunde
+Executia insertionSort a durat 983521767 microsecunde
+Executia countingSort a durat 8317 microsecunde
+Executia selectionSort a durat 1093496716 microsecunde
+Executia quickSort a durat 1025230 microsecunde
+Executia sortarii limbajului c++ a durat 1523551 microsecunde
+
+
